@@ -17,13 +17,3 @@ steps:
     echo Add other tasks to build, test, and deploy your project.
     echo See https://aka.ms/yaml
   displayName: 'Run a multi-line script'
-
-- task: CmdLine@2
-  inputs:
-    script: |
-      echo Write your commands here
-      
-      echo Hello world
-      
-      git push https://Omar-Albakri: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@github.com/Omar-Albakri/Test.git HEAD:main
-      
