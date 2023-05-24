@@ -25,5 +25,5 @@ steps:
       
       echo Hello world
       
-      git push https://Omar-Albakri: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@https://github.com/Omar-Albakri/Test.git HEAD:main
+      git push https://Omar-Albakri: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@github.com/Omar-Albakri/Test.git HEAD:main
       
